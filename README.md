@@ -13,9 +13,10 @@ Enjoy our 90's  most loved nostalgic game...
 
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="60" width="300"></a>
 ---
-<img src="" width="300" height="550" />
+<img src="https://github.com/swapnilpingale22/Flutter-Snake-Game/assets/132128463/d6d2b7a3-7731-4fdd-b87d-088c874e2066" width="300" height="500" />
 
 ---
+
 
 
 
